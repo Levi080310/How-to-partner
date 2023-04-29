@@ -6,4 +6,4 @@ Server must be SFW
 
 Staff member from the server must stay in this one or ad will be deleted
 
-No member requirement
+No member requirement.
